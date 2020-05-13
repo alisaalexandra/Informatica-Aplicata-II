@@ -1,4 +1,4 @@
-package com.ace.circleplugin;
+package com.ace.plugins.circleplugin;
 
 import com.ace.pluginfill.interfaces.IShape;
 
@@ -59,5 +59,6 @@ public class Circle implements IShape{
     public void print() {
         System.out.println("Circle added.");
     }
+   
     
 }

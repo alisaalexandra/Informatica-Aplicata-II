@@ -1,20 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.ace.rectangleplugin;
 
 import com.ace.pluginfill.interfaces.IShape;
-import com.ace.pluginfill.interfaces.IStrategy;
 import java.awt.Point;
 import java.util.Scanner;
 
-/**
- *
- * @author Ali
- */
-public class Rectangle implements IShape, IStrategy{
+public class Rectangle implements IShape{
     private Scanner input = new Scanner(System.in);
     private Point upperLeft;
     private Point lowerRight;

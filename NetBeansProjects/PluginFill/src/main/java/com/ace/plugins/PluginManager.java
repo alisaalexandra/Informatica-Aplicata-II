@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.ace.plugins;
 import com.ace.pluginfill.interfaces.IPluginsAppPlugin;
 import com.ace.pluginfill.interfaces.IShape;
@@ -20,10 +15,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
-/**
- *
- * @author catalin
- */
+
 public class PluginManager {
     private ArrayList<IPluginsAppPlugin> pluginsList = new ArrayList();
     

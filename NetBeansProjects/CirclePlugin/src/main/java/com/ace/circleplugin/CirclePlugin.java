@@ -1,21 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package com.ace.circleplugin;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 import com.ace.pluginfill.interfaces.IPluginsAppPlugin;
 import com.ace.pluginfill.interfaces.IShape;
-/**
- *
- * @author catalin
- */
+
 public class CirclePlugin implements IPluginsAppPlugin {
 
     @Override

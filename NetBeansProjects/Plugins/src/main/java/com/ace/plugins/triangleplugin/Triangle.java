@@ -1,5 +1,4 @@
-
-package com.ace.triangleplugin;
+package com.ace.plugins.triangleplugin;
 
 import com.ace.pluginfill.interfaces.IShape;
 import java.awt.Point;

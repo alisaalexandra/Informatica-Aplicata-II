@@ -24,13 +24,11 @@ public class MyFirstApp {
         addShapeItems.add(new MenuItem("Circle",
                 1,
                 (parameters) -> {
-                    sketch.addCircle();
                 }));
 
         addShapeItems.add(new MenuItem("Square",
                 2,
                 (parameters) -> {
-                    sketch.addSquare();
                 }));
 
         mainMenuItems.add(new Menu("Add shape", 1, addShapeItems));
