@@ -1,0 +1,8 @@
+com\ace\plugins\PluginManager.class
+com\ace\menu\MenuItem.class
+com\ace\plugins\PluginApp.class
+com\ace\plugins\PluginManager$1.class
+com\ace\menu\IMenuItem.class
+com\ace\menu\IExecutableAction.class
+com\ace\menu\ApplicationMenu.class
+com\ace\menu\Menu.class
